@@ -1,0 +1,11 @@
+.widget {
+    position: relative;
+    width: 700px;
+    height: auto;
+  }
+  
+.top-left {
+    position: absolute;
+    top: 8px;
+    left: 8px;
+}
